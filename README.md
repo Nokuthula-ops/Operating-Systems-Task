@@ -1,4 +1,4 @@
-##User & File Management Practical (Linux)
+## User & File Management Practical (Linux)
 
 This repository contains my **Individual Practical Task** for Linux user and file management.
 The exercise demonstrates how to create users, manage permissions, and install software using the command line.
