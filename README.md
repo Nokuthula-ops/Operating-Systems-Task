@@ -1,17 +1,11 @@
-Perfect 👏 — since this is a **Linux practical task** for creating users, managing permissions, and installing software, your GitHub **README.md** should briefly explain what the project is about, what commands were used, and what the screenshots show.
-
-Here’s a ready-to-use example you can copy straight into your repo’s `README.md` 👇
-
----
-
-# 🧑‍💻 User & File Management Practical (Linux)
+##User & File Management Practical (Linux)
 
 This repository contains my **Individual Practical Task** for Linux user and file management.
 The exercise demonstrates how to create users, manage permissions, and install software using the command line.
 
 ---
 
-## 📘 Objectives
+## Objectives
 
 * Create a new user account on Linux
 * Manage user and file permissions
@@ -20,7 +14,7 @@ The exercise demonstrates how to create users, manage permissions, and install s
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 
 ### 1️⃣ Create a New User
 
@@ -70,20 +64,10 @@ Then verified the installation:
 vim --version
 ```
 
----
-
-## 🧾 Screenshots
-
-Screenshots included in this repository show:
-
-* Creating a new user
-* Switching between users
-* Changing permissions and ownership
-* Updating and installing packages
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 Through this task I learned how to:
 
@@ -94,11 +78,10 @@ Through this task I learned how to:
 
 ---
 
-## 📅 Author
+## Author
 
 **Nokuthula Ngcongo**
 *IT Support Student | Linux User Management Exercise*
 
 ---
 
-Would you like me to make this README more **visually styled** (with emoji icons, sections, and markdown formatting for GitHub display)? I can make it look more professional for your portfolio.
